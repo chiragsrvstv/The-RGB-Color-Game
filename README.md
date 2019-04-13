@@ -6,4 +6,4 @@ color from the given options in order to win.
 1. Clone or download the repository.
 2. Make sure a Web Browser like 'Chrome' is installed.
 3. For installing 'Chrome' visit https://www.google.com/chrome/
-4. Open 'index.html' from your Web Browser.
+4. Open the file 'colorGame.html' from your Web Browser.
